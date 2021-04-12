@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
-namespace db_GUI
+namespace GUI_Database
 {
     class Database
     {

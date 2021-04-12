@@ -1,4 +1,4 @@
-﻿namespace db_GUI
+﻿namespace GUI_Database
 {
     partial class Form1
     {

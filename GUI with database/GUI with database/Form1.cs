@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Collections;
 
-namespace db_GUI
+namespace GUI_Database
 {
     public partial class Form1 : Form
     {

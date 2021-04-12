@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace db_GUI
+namespace GUI_Database
 {
     static class Program
     {
